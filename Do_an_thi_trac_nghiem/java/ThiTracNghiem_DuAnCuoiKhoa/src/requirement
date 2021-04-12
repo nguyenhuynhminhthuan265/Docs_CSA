@@ -1,0 +1,6 @@
+Thi trắc nghiệm:
+Danh sách môn học: danh sách liên kết(MAMH, TENMH).
+Danh sách Lớp: danh sách tuyến tính(MALOP, TENLOP, con trỏ); con trỏ sẻ trỏ đến danh sách sinh viên thuộc lớp đó.
+Danh sách sinh viên: danh sách liên kết đơn(MASV, HO, TEN, PHAI, password, con trỏ): con trỏ sẽ trỏ đến điểm cac môn đã thi trắc nghiệm.
+Danh sách điểm thi( Danh sách liên kết đơn ) (Mamh, Diem)
+Dạnh sách Câu hỏi thi(cây nhị phân tìm kiếm cân bằng với key = Id) (Id, mã MH, Nội dung) , A, B, C, D, Đáp án); trong đó A, B, C, D là 4 lựa chọn tương ứng với nội dung câu hỏi. Chương trình có các chức năng sau: Đăng nhậ dựa vào mã sinh viên, password. Nếu tài khoản đăng nhập là GV , pass là GV thì sẽ có toàn quyền , Nhập lớp , In ds lớp. Nhập sinh viên của lớp, Nhập môn học . Nhập câu hỏi thi(Id là số ngẫu nhiên do chuong trình tụ tạo), Thi trắc nghiệm(trước khi thi hỏi ) người thi môn thi, số câu hỏi thi - sau đó lấy ngẫu ngiên các câu hỏi trong dan sách câu hỏi ti của môn; In chi tiết cac câu hỏi đã thi 1 môn học của 1 sinh viên , In bảng điểm thi trắc nghiệm môn học của 1 lớp(nếu có sinh viên chưa ti thì ghi " Chưa thi") Lưu ý: Chương trình cho phép lưu các danh sách vào file: kiểm tra các điều kiện làm dữ liệu bị sai. Sinh viên có thể tự thiết kế thêm danh sách để đáp ứng yêu cầu của đề tài .

@@ -1,0 +1,11 @@
+﻿  Bai1.cpp
+D:\Cybersoft_Mentor\Uu_tien\workspace_CPlusPlus\DataStructureAndAlgorithms\Stack\Bai1.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+D:\Cybersoft_Mentor\Uu_tien\workspace_CPlusPlus\DataStructureAndAlgorithms\Stack\Bai1.cpp(37,12): error C3861: 'convertStackCharToString': identifier not found
+D:\Cybersoft_Mentor\Uu_tien\workspace_CPlusPlus\DataStructureAndAlgorithms\Stack\Bai1.cpp(46,12): error C3861: 'convertStackCharToString': identifier not found
+  Bai2.cpp
+  Bai3.cpp
+  Bai4.cpp
+  MyStack.cpp
+  Node.cpp
+  Stack.cpp
+  Generating Code...

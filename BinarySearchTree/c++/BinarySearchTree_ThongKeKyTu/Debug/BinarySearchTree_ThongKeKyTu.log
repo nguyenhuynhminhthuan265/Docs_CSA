@@ -1,0 +1,7 @@
+﻿  MainApp.cpp
+D:\Cybersoft_Mentor\Uu_tien\CplusPlus_BST\BinarySearchTree_ThongKeKyTu\BinarySearchTree_ThongKeKyTu\MainApp.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+D:\Cybersoft_Mentor\Uu_tien\CplusPlus_BST\BinarySearchTree_ThongKeKyTu\BinarySearchTree_ThongKeKyTu\MainApp.cpp(198,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Cybersoft_Mentor\Uu_tien\CplusPlus_BST\BinarySearchTree_ThongKeKyTu\BinarySearchTree_ThongKeKyTu\MainApp.cpp(199,16): warning C4101: 'p': unreferenced local variable
+D:\Cybersoft_Mentor\Uu_tien\CplusPlus_BST\BinarySearchTree_ThongKeKyTu\BinarySearchTree_ThongKeKyTu\MainApp.cpp(200,7): warning C4101: 'x': unreferenced local variable
+D:\Cybersoft_Mentor\Uu_tien\CplusPlus_BST\BinarySearchTree_ThongKeKyTu\BinarySearchTree_ThongKeKyTu\MainApp.cpp(77): warning C4715: 'Search': not all control paths return a value
+  BinarySearchTree_ThongKeKyTu.vcxproj -> D:\Cybersoft_Mentor\Uu_tien\CplusPlus_BST\BinarySearchTree_ThongKeKyTu\Debug\BinarySearchTree_ThongKeKyTu.exe
