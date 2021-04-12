@@ -1,0 +1,9 @@
+Viết chương trình quản lý mặt hàng trong kho dùng Queue
+MatHang(maMatHang, tenMatHang)
+KhoHang -> Áp dụng Queue
+Hoàn thành các chức năng:
+1: Nhập 1 mặt hàng
+2: Xuất một mặt hàng
+3: Xem mặt hàng chuẩn bị xuất
+4: Xem mặt hàng mới nhập
+5: Xem các mặt hàng còn trong kho

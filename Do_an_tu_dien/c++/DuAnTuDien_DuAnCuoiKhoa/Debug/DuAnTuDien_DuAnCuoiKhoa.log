@@ -1,0 +1,6 @@
+﻿  Node.cpp
+D:\Cybersoft_Mentor\Uu_tien\workspace_CPlusPlus\DataStructureAndAlgorithms\DuAnTuDien_DuAnCuoiKhoa\Node.cpp(7,1): warning C4099: 'Node<T>': type name first seen using 'class' now seen using 'struct'
+D:\Cybersoft_Mentor\Uu_tien\workspace_CPlusPlus\DataStructureAndAlgorithms\DuAnTuDien_DuAnCuoiKhoa\Node.cpp(10): message : see reference to class template instantiation 'Node<T>' being compiled
+D:\Cybersoft_Mentor\Uu_tien\workspace_CPlusPlus\DataStructureAndAlgorithms\DuAnTuDien_DuAnCuoiKhoa\Node.cpp(8,1): warning C4099: 'Node<T>': type name first seen using 'class' now seen using 'struct'
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\Cybersoft_Mentor\Uu_tien\workspace_CPlusPlus\DataStructureAndAlgorithms\Debug\DuAnTuDien_DuAnCuoiKhoa.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,0 +1,4 @@
+﻿  MainApp.cpp
+D:\Cybersoft_Mentor\Uu_tien\CplusPlus_BST\BinarySearchTree_ThongKeKyTu\BinarySearchTree_ThongKeTu\MainApp.cpp(203,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Cybersoft_Mentor\Uu_tien\CplusPlus_BST\BinarySearchTree_ThongKeKyTu\BinarySearchTree_ThongKeTu\MainApp.cpp(204,16): warning C4101: 'p': unreferenced local variable
+  BinarySearchTree_ThongKeTu.vcxproj -> D:\Cybersoft_Mentor\Uu_tien\CplusPlus_BST\BinarySearchTree_ThongKeKyTu\Debug\BinarySearchTree_ThongKeTu.exe

@@ -1,0 +1,4 @@
+﻿  MainApp.cpp
+D:\Cybersoft_Mentor\Uu_tien\CplusPlus_AVL\AVLTree\CRUD\MainApp.cpp(284,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Cybersoft_Mentor\Uu_tien\CplusPlus_AVL\AVLTree\CRUD\MainApp.cpp(161): warning C4715: 'InsertNode': not all control paths return a value
+  CRUD.vcxproj -> D:\Cybersoft_Mentor\Uu_tien\CplusPlus_AVL\AVLTree\Debug\CRUD.exe
